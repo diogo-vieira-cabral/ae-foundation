@@ -1,9 +1,8 @@
 ## LeetCode SQL 
-**username:** diogo-vieira-cabral
+**Progress: 2** | **username:** diogo-vieira-cabral
 
-Progress: 
 
-| # | Problem | Business Case | Solved |
+| # | Problem | Business Case | Solution |
 |---|---------|---------------|----------|
 | [175](175.sql) | Combine Two Tables | Customer Name + Address | ✅ |
 | [176](176.sql) | Second Highest Salary | Exec comp analysis | ✅ |
