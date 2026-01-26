@@ -1,5 +1,6 @@
 ## LeetCode SQL 
 **username:** diogo-vieira-cabral
+
 Progress: 
 
 | # | Problem | Business Case | Solved |
