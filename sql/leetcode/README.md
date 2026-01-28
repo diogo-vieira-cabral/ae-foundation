@@ -1,13 +1,13 @@
 ## LeetCode SQL 
-**Progress: 6/50** | **username:** diogo-vieira-cabral
+**Progress: 6/50** | **LeetCode username:** diogo-vieira-cabral
 
 
-| # | Problem | Strategic Insight | TechStack |
+| # | Problem | Use case/Business Impact | TechStack |
 |---|---------|---------------|----------|
-| [175](175.sql) | Combine Two Tables | Denormalizing for CRM: Merging disparate PII sources for unified customer profiles. | LEFT JOIN |
-| [176](176.sql) | Second Highest Salary | Comp Benchmarking: Identifying salary outliers to prevent executive churn. | CTE, DENSE RANK() LIMIT |
-| [177](177.sql) | Nth Highest Salary | Tiered Segmentation: Building reusable logic for dynamic VIP loyalty tiers. | UDF, OFFSET|
-| [178](178.sql) | Rank Scores | Dense ranking ensures fair tiering logic. | DENSE_RANK()
-| [181](181.sql) | Employees Earning More Than Managers | Performance Arbitrage: Identifying high-performers out-earning leadership to flag retention risks. | SELF-JOIN |
+| [175](175.sql) | Combine Two Tables | Merge disparate PII sources to unify customer profiles. | LEFT JOIN |
+| [176](176.sql) | Second Highest Salary | Comparative Benchmarking: Understand the gap between the top earner and the next level of pay for budgeting and retention analysis. | CTE, DENSE RANK() LIMIT |
+| [177](177.sql) | Nth Highest Salary | Tiered Segmentation: Build reusable logic to create dynamic customer tiers. | UDF, OFFSET|
+| [178](178.sql) | Rank Scores | Ensuring fairness: Acknowledging tied performance without penalizing the subsequent participants.  | DENSE_RANK()
+| [181](181.sql) | Employees Earning More Than Managers | Performance Arbitrage: Identifying high-performers out-earning leadership. | SELF-JOIN |
 | [182](182.sql) | Duplicate Emails | Data Hygiene: Isolating redundant entities to ensure unique ID resolution. | GROUP BY, HAVING |
 
