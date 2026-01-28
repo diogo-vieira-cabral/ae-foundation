@@ -1,9 +1,9 @@
 # Analytics Engineering Foundations
 **Mission:** Transforming raw data into high-integrity production intelligence to drive cash flow and attribution.
 
-> [!Engineering Philosophy:]
-** Depth Over Volume**
-> I prioritize **Rationale** over raw output. Aiming to engineer and document solutions through a lifecycle of: 
+> **Engineering Philosophy:**
+I prioritize **Rationale** over raw output, Depth Over Volume.
+Aiming to engineer and document solutions through a lifecycle of: 
     1. **Functional Solve** 
     2. **Edge-Case Stress Testing** (Ties/NULLs) 
     3. **Professional Refactor** (Window Functions/CTEs).
@@ -31,10 +31,12 @@ ____
 ## Technical Standards & Stack
 
 **Data Modeling & Transformation (dbt/BigQuery):** 
-Adopting Medallion Architecture (Bronze, Silver, Gold) to ensure data lineage. I prioritize Dry-runs and Incremental loads to optimize compute costs and performance.
+I prioritize Dry-runs and Incremental loads to optimize compute costs and performance.
+Adopting Medallion Architecture (Bronze, Silver, Gold) to ensure data lineage. 
 
 **Data Quality & Reliability:** 
-Quality First: Adopting a test-driven approach in dbt to ensure data integrity, focusing on unique keys and null-value prevention.
+Adopting a test-driven approach in dbt to ensure data integrity, focusing on unique keys and null-value prevention.
+Quality First.
 
 **Engineering Workflow:**
 Version control via Git with a focus on atomic commits. 
