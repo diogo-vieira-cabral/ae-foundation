@@ -1,12 +1,12 @@
 # Analytics Engineering Foundations
 **Mission:** Transforming raw data into high-integrity production intelligence to drive cash flow and attribution.
 
-> **Engineering Philosophy:**
+> **Engineering Philosophy:**  
 I prioritize **Rationale** over raw output.  
 Depth Over Volume.  
 
 Aiming to engineer and document solutions through:  
-Functional Solution. 
+Functional Solution.  
 Edge-Case Stress Testing: (Ties/NULLs).  
 Professional Refactor: (Window Functions/CTEs).  
 
