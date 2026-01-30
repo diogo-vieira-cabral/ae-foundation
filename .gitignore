@@ -1,7 +1,6 @@
 .DS_Store
 **/.DS_Store
 
-# Ignore the environment bubble
 .venv/
 
 # Ignore the automated machine noise
