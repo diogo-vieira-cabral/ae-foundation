@@ -25,9 +25,9 @@ Every pattern is a documented protocol for handling specific business contexts a
   
 ### **Directories:**
 
-- **[logic-gate-library/](https://www.google.com/search?q=logic-gate-library/)**: The core index for SQL protocols and business impact.
-- **foundry-engines/**
-- **systems/** Composite models (dbt/SQL) for end-to-end business cases (LTV, Churn).  
+- **[logic-gate-library/](https://github.com/diogo-vieira-cabral/logic-gate-foundry/tree/main/logic-gate-library)**: The core index for SQL protocols and business impact.
+- **foundry-engines**:
+- **systems**: Composite models (dbt/SQL) for end-to-end business cases (LTV, Churn).  
   
   
 > **Note on Growth:** This repository is an evolving audit of my own technical standards. I treat every commit as a step toward more resilient infrastructure. It isn't just about the code—it's about building a reliable mental model for how data should behave in the wild.
